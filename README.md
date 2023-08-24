@@ -1,4 +1,4 @@
-# :zap: :zap: :zap: :zap: :zap:  Loopstudio - Landing Page
+# :zap: :zap: :zap: :zap: :zap:  ort - exercise - Landing Page
 ## *coded by - **Agustin Vilariño** -  :saxophone:*
 
 ### Welcome !!
